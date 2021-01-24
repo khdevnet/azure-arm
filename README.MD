@@ -1,17 +1,18 @@
-﻿# ARM Templates and Services
+# ARM Templates and Services
 ## Resource types
 
 ### Azure Monitor
 * [Azure Monitor Overview](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
 * [Log Analytics](https://docs.microsoft.com/en-us/azure/azure-monitor/samples/resource-manager-workspace)
 * Resource type Microsoft.OperationalInsights/workspaces - Create Azure Log Analytics
-!(Azure Monitor)[https://docs.microsoft.com/en-us/azure/azure-monitor/media/overview/overview.png]
+
+![Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/media/overview/overview.png)
 
 
 ### Azure Application Insights
 * [Application Insights overview](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 * Resource type Microsoft.Insights/components - Create Azure App insights Analytics
-!(Application Insights overview)[https://docs.microsoft.com/en-us/azure/azure-monitor/app/media/app-insights-overview/diagram.png]
+![Application Insights overview](https://docs.microsoft.com/en-us/azure/azure-monitor/app/media/app-insights-overview/diagram.png)
 
 
 ### Azure Alerts and Actions group
