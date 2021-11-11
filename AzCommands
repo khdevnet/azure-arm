@@ -1,4 +1,5 @@
 ## Create static web hosting blob storage
 ```
 az storage blob service-properties update --subscription DEV --account-name officetrtest3devvava --static-website  --index-document index.html
+az storage account show --subscription DEV --name portaltrtest3devvava --query 'primaryEndpoints.web'
 ```
