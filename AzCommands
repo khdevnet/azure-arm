@@ -1,0 +1,4 @@
+## Create static web hosting blob storage
+```
+az storage blob service-properties update --account-name wyamfrankdemo --static-website  --index-document index.html
+```
